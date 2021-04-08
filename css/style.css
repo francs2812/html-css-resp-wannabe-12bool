@@ -11,6 +11,12 @@
     border: 1px solid black;
 }
 
+.blue-circle img {
+    background-color: #428bca;
+    border-radius: 50%;
+    padding: 30px
+}
+
 header {
     margin-top: 100px;
 }
@@ -20,7 +26,8 @@ h1 {
     margin-bottom: 50px;
 }
 h3 {
-    margin-left: 5%; 
+    margin: 25px 0;
+    text-align: center;
 }
 img {
     height: 200px;
